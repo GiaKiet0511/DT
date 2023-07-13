@@ -1,0 +1,1 @@
+export  const urlImage="http://localhost/laravel_dtapi/public/images/";
